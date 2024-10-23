@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/VRShooting/Scenes/Title.unity
+    guid: 38b68dfff78394d8b9701546128b2449
+  - enabled: 1
+    path: Assets/VRShooting/Scenes/SelectStage.unity
+    guid: b2a5ed522afa94ea58530d1bbfe9f22e
+  - enabled: 1
+    path: Assets/VRShooting/Scenes/ShootingStage1.unity
+    guid: cb1761177c8ac417a856f390bfdf100f
+  - enabled: 1
+    path: Assets/VRShooting/Scenes/ShootingStage2.unity
+    guid: 49fb60073917b44d8820b6c131271118
+  - enabled: 1
+    path: Assets/VRShooting/Scenes/ShootingStage3.unity
+    guid: 441e4bca7889f4a8ca052c7b881dc625
+  m_configObjects: {}
